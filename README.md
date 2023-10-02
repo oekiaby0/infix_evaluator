@@ -61,5 +61,5 @@ int main() {
 }
 ```
 
-### License
+## License
 This code is provided under the GPL3 License. Feel free to use, modify, and distribute it as needed. See the LICENSE file for more details.
